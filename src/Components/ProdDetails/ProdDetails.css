@@ -1,0 +1,12 @@
+.main-div {
+  display: flex;
+  max-width: 100%;
+  /* justify-content: space-around; */
+  flex-wrap: wrap;
+}
+.box {
+  width: 28%;
+  margin: 10px;
+  padding: 20px;
+  box-shadow: 2px 2px 10px lightgray;
+}
